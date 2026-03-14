@@ -1,11 +1,8 @@
- 👋 Hi,I’m mugisachantal joseph a student pursuing a bachelor degree in software engineering at markerere university in Uganda.
-- 👀 I’m interested in web development , data engineering , ethical hacking and artificial inteligence
-- 🌱 I’m currently learning web development(front-end developmen) with an intermediate mastery in html css and javascript, i am also learning object oriented programming using mainly java as a programming language , also database development and administration using mySQL 
-- 💞️ I’m looking to collaborate on web development projects , while contributing mainly in the front-end 
-- 📫 i can be reached via mjojasssen@gmail.com  and tel: +256 774528885
+ 👋 Hi,I’m mugisachantal joseph a student pursuing a bachelor degree in software engineering at markerere university and a software developer at Thinkxsoftware .
+- 👀 I’m interested in web and mobile development(backend) , machine learning/ artificial inteligence
+-  I’m currently working with thinkxsoftware and building different freelance and academic projects 
+- 🌱 I’m i am continously learning new skills and i am allows open to new challenges and opportunities 
+- 📫 i can be reached via mjojasssen@gmail.com 
   
 
-<!---
-mugisachantal/mugisachantal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
